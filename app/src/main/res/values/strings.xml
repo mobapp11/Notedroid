@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notedroid</string>
+    <string name="str_btn_detail">Details</string>
+    <string name="str_btn_navigation">Let\'s go</string>
+    <string name="str_tv_date">16-06-1998</string>
+    <string name="str_tv_date_detail">Aanmaakdatum</string>
+    <string name="str_tv_laatstewijzigingen_detail">Laatste wijziging</string>
+    <string name="str_et_title">Schrijf hier je titel</string>
+    <string name="str_et_inhoud">Schrijf hier de inhoud</string>
+    <string name="str_tv_input_title">Titel</string>
+    <string name="str_tv_input_inhoud">Inhoud</string>
+    <string name="str_btn_addToList">Save</string>
+</resources>
